@@ -1,3 +1,3 @@
 # src
 
-This folder cotains pgrogram or scripts
+This folder contains program or scripts
