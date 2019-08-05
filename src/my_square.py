@@ -1,5 +1,6 @@
 def my_square(x):
     """ take a value and returns the square value.
+    use the ** operator
     """ 
     return ( x ** 2)
 
