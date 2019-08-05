@@ -1,4 +1,4 @@
 # Documeation
 
-This folder contains documentation or manuscripts realted to the current repository
+This folder contains documentations or manuscripts realted to the current repository
 
